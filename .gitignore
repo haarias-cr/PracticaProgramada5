@@ -1,0 +1,11 @@
+# IDE y build
+.idea/
+out/
+*.iml
+
+# Archivos sensibles y temporales
+usuarios.dat
+*.log
+
+# Dependencias externas
+*.jar
